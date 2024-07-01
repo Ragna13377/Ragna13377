@@ -1,16 +1,21 @@
-## Hi there 👋
+# Всем привет. Меня зовут Иван.
 
-<!--
-**Ragna13377/Ragna13377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Стек:
 
-Here are some ideas to get you started:
+* React
+* Typescript
+* Javascript
+* Redux
+* Sass
+* Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Тестирование: Jest, Cypress
+Остальное: Git, Webpack, Figma
+
+
+## Проекты
+* [Поисковик игр на сервисах Steam и GOG](https://ragna13377.github.io/gameHub/)
+* [Резюме с рабочим столом, использующим DND](https://ragna13377.github.io/aboutMe/#/AboutMe)
+* [Не краткие шпаргалки по разным материалам](https://github.com/Ragna13377/Docs)
+
+Телеграм для связи: ![telegram](https://github.com/Ragna13377/Ragna13377/raw/main/images/telegram.svg)
