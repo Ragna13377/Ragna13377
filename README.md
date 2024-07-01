@@ -1,7 +1,5 @@
 # Всем привет. Меня зовут Иван.
 
-Стек:
-
 ![React, Redux, Typescript, Javascript, Jest, Cypress, Docker, Webpack, Git, Sass](https://github.com/Ragna13377/Ragna13377/raw/main/images/stack.png)
 
 ## Проекты
