@@ -1,6 +1,6 @@
-# Всем привет. Меня зовут Иван и я занимаюсь Frontend разработкой
+# Всем привет. Меня зовут Иван.
 
-## Cтек
+## Используемые технологии
 ![React, Redux, Typescript, Javascript, Jest, Cypress, Docker, Webpack, Git, Sass](https://github.com/Ragna13377/Ragna13377/raw/main/images/Stack.png)
 
 ## Проекты
