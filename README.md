@@ -2,7 +2,7 @@
 
 Стек:
 
-![React, Redux, Typescript, Javascript, Jest, Cypress, Docker, Webpack, Git, Sass](https://github.com/Ragna13377/Ragna13377/raw/main/images/stack.png)
+![React, Redux, Typescript, Javascript, Jest, Cypress, Docker, Webpack, Git, Sass](https://github.com/Ragna13377/Ragna13377/raw/main/images/Stack.png)
 
 ## Проекты
 * [Поисковик игр на сервисах Steam и GOG](https://ragna13377.github.io/gameHub/)
