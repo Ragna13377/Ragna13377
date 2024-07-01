@@ -2,16 +2,7 @@
 
 Стек:
 
-* React
-* Typescript
-* Javascript
-* Redux
-* Sass
-* Docker
-
-Тестирование: Jest, Cypress
-Остальное: Git, Webpack, Figma
-
+![React, Redux, Typescript, Javascript, Jest, Cypress, Docker, Webpack, Git, Sass](https://github.com/Ragna13377/Ragna13377/raw/main/images/stack.webp)
 
 ## Проекты
 * [Поисковик игр на сервисах Steam и GOG](https://ragna13377.github.io/gameHub/)
