@@ -1,14 +1,17 @@
 # Всем привет. Меня зовут Иван.
 
 ## Используемые технологии
+* Next 14 (App Router)
 * React + Redux
 * Typescript/Javascript
+* ShadcnUI/MUI/Bootstrap
 * CSS (SASS/SCSS)
+* Prisma ORM
 * Webpack/Gulp
 * Jest/Cypress/Storybook
 * Docker
 * Git
-* MUI/Bootstrap
+
 
 ## Проекты
 * [Поисковик игр на сервисах Steam и GOG](https://ragna13377.github.io/gameHub/)
