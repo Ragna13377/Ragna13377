@@ -19,4 +19,4 @@
 * [ККИ на React](https://ragna13377.github.io/eldenRingReact/) - [репозиторий](https://github.com/Ragna13377/eldenRingReact)
 * [Не краткие шпаргалки по разным материалам](https://github.com/Ragna13377/Docs)
 
-## Телеграм для связи: [![telegram](https://github.com/Ragna13377/Ragna13377/raw/main/images/telegram.png)](https://t.me/zirconium95)
+## Телеграм для связи: [![telegram](https://github.com/Ragna13377/Ragna13377/raw/main/images/telegram.png)]([https://t.me/zirconium95](https://t.me/vedal988))
