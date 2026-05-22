@@ -1,17 +1,3 @@
-# Всем привет. Меня зовут Иван.
-
-## Используемые технологии
-* Next 14 (App Router)
-* React + Redux
-* Typescript/Javascript
-* ShadcnUI/MUI/Bootstrap
-* CSS (SASS/SCSS)
-* Prisma ORM
-* Webpack/Gulp
-* Jest/Cypress/Storybook
-* Docker
-* Git
-
 ## Проекты
 * [Next авторизация](https://hobby-mate.vercel.app/) - [репозиторий](https://github.com/Ragna13377/hobbyMate)
 * [Поисковик игр на сервисах Steam и GOG](https://ragna13377.github.io/gameHub/) - [репозиторий](https://github.com/Ragna13377/gameHub)
