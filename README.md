@@ -6,10 +6,10 @@
 
 | | Project | Source | Demo |
 |---|---|---|---|
-| 🖥️ | **Comet Trail Portfolio** — interactive CRT-style portfolio | [Source](https://github.com/Ragna13377/portfolio) | [Demo](https://ragna13377.github.io/portfolio/) |
-| 🔐 | **Gothic 1 Lockpick** — lockpicking helper for Gothic 1 Remake | [Source](https://github.com/Ragna13377/gothic-1-lockpick) | [Demo](https://gothic-1-lockpick.vercel.app/) |
-| 🌌 | **SWAPI** — Star Wars characters, filters and infinite loading | [Source](https://github.com/Ragna13377/swapi) | [Demo](https://ragna13377.github.io/swapi/) |
-| 🪱 | **Worms JS** — small React Three Fiber / Three.js experiment | [Source](https://github.com/Ragna13377/worms-js) | [Demo](https://ragna13377.github.io/worms-js/) |
+| <img src="./images/projects/portfolio.jpg" width="180" height="101" alt="Comet Trail Portfolio demo screenshot" /> | **Comet Trail Portfolio** — interactive CRT-style portfolio | [Source](https://github.com/Ragna13377/portfolio) | [Demo](https://ragna13377.github.io/portfolio/) |
+| <img src="./images/projects/gothic-1-lockpick.jpg" width="180" height="101" alt="Gothic 1 Lockpick demo screenshot" /> | **Gothic 1 Lockpick** — lockpicking helper for Gothic 1 Remake | [Source](https://github.com/Ragna13377/gothic-1-lockpick) | [Demo](https://gothic-1-lockpick.vercel.app/) |
+| <img src="./images/projects/swapi.jpg" width="180" height="101" alt="SWAPI demo screenshot" /> | **SWAPI** — Star Wars characters, filters and infinite loading | [Source](https://github.com/Ragna13377/swapi) | [Demo](https://ragna13377.github.io/swapi/) |
+| <img src="./images/projects/worms-js.jpg" width="180" height="101" alt="Worms JS demo screenshot" /> | **Worms JS** — small React Three Fiber / Three.js experiment | [Source](https://github.com/Ragna13377/worms-js) | [Demo](https://ragna13377.github.io/worms-js/) |
 | 🎮 | **GameHub** — Steam / GOG game search | [Source](https://github.com/Ragna13377/gameHub) | — |
 | 📚 | **Docs** — notes on browser, JavaScript, TypeScript, React and web APIs | [Source](https://github.com/Ragna13377/Docs) | — |
 
