@@ -34,9 +34,9 @@
     <td align="center"><img src="./images/projects/swapi.jpg" width="220" alt="SWAPI preview" /></td>
   </tr>
   <tr>
-    <td align="center">Destructible terrain, custom movement and gameplay systems in React Three Fiber / Three.js.</td>
+    <td align="center">A simplified version of Worms Armageddon built with React Three Fiber / Three.js.</td>
     <td align="center">A practical lockpicking helper for Gothic 1 Remake.</td>
-    <td align="center">Steam / GOG game search and data aggregation project.</td>
+    <td align="center">Game price comparison across Steam and GOG.</td>
     <td align="center">Star Wars characters, filters and infinite loading.</td>
   </tr>
   <tr>
