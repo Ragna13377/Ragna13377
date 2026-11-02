@@ -60,6 +60,7 @@
 
 ### Notes
 
+- [Outline VPN — Windows autostart fix](https://github.com/Ragna13377/outline-apps) — persistent startup checkbox. [Download 1.19 / 1.21](https://github.com/Ragna13377/outline-apps/releases).
 - [Docs](https://github.com/Ragna13377/Docs) — frontend notes on browser, web platform, HTML/CSS, JavaScript, TypeScript, React and Axios.
 
 ---
